@@ -9,7 +9,7 @@ The dashboard integrates weather and air-quality data to give users an intuitive
 ---
 
 ## 🖼️ Dashboard Preview
-![Weather Dashboard Preview](./dashboard.png)
+![Weather Dashboard Preview](./dashboard-preview.png)
 
 ---
 
